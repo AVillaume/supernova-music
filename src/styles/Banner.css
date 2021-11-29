@@ -1,0 +1,19 @@
+.sm-banner {
+    color: #fff;
+    text-align: right;
+    padding: 32px;
+    border-bottom: solid 3px #fff;
+    display: flex;
+    justify-content: space-between;
+	flex-direction: row;
+    align-items: center;
+}
+
+.sm-logo {
+    height: 350px;
+}
+
+.sm-title {
+    font-size: 3.2rem;
+    margin-right: 100px;
+}
