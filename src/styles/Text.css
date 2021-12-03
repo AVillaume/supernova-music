@@ -1,0 +1,9 @@
+.container {
+    color: aliceblue;
+    font-size: 30px;
+    padding: 50px 100px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    text-align: center;  
+}

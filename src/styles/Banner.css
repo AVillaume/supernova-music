@@ -1,8 +1,8 @@
 .sm-banner {
-    color: #fff;
     text-align: right;
-    padding: 32px;
-    border-bottom: solid 3px #fff;
+    padding: 0px;
+    margin-bottom: 5px;
+    border-bottom: ridge 15px rgb(134, 148, 226);
     display: flex;
     justify-content: space-between;
 	flex-direction: row;
@@ -16,4 +16,6 @@
 .sm-title {
     font-size: 3.2rem;
     margin-right: 100px;
+    text-shadow: 0 0 0.2em rgb(81, 155, 252), 0 0 0.2em rgb(166, 225, 248);
+    color: #FFF;
 }
